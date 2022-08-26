@@ -1,10 +1,3 @@
-.content {
-    grid-area: c;
-    background-color: pink;
-}
-.content img {
+img {
     width: 800px;
-}
-.item {
-    color: deeppink;
 }
